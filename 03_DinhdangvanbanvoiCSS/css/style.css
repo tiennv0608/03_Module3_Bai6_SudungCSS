@@ -1,0 +1,15 @@
+a{
+    color: deepskyblue;
+}
+sup{
+    color: deepskyblue;
+    font-size: 20%;
+}
+table{
+    border-bottom: 10em;
+    border-bottom-color: gray;
+}
+p{
+    text-indent: 50px;
+    text-align: justify-all;
+}
