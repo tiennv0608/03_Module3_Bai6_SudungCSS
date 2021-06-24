@@ -1,19 +1,27 @@
-#DongDuong{
+#DongDuong {
     color: cyan;
 }
-a{
+
+a {
     color: deepskyblue;
 }
-sup{
+
+sup {
     color: deepskyblue;
-    font-size: 20%;
+    font-size: 30%;
 }
-p{
+
+p {
     text-indent: 50px;
-    mso-line-spacing:;
 }
-div{
+
+div {
     width: 50%;
     height: 50%;
     text-align: justify;
+}
+
+h1, hr, h4 {
+    margin: 1px;
+    /*line-height: 0.3;*/
 }
